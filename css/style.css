@@ -1,1 +1,16 @@
+body {
+	background-color: #36342a;
+	color:red;
+}
 
+.navbar-brand {
+  padding: 0px; /* firefox bug fix */
+}
+.navbar-brand>img {
+  height: 100%;
+}
+.headline{
+	background-color:black;
+	color: red;
+	text-align: center;
+}
